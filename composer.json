@@ -7,5 +7,5 @@
             "email": "sheehan010507@hotmail.com"
         }
     ],
-    "require": {}
+    "require": {"nesbot/carbon": "^2.39.0"}
 }
